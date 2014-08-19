@@ -5,6 +5,4 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-distance=5
-for n in range(0, distance)
-move ()
+look()
