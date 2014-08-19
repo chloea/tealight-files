@@ -2,7 +2,7 @@ from tealight.logo import move, turn
 
 
 def triangle(side):
-  for i in range(1,6):
+  for i in range(0,6):
     move(side)
     turn(90)
 
