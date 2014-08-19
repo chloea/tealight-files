@@ -8,7 +8,7 @@ def triangle(side):
 
 def waterwheel(edges, size):
   angle = 360 / edges
-  decoration = size /10
+  decoration = size /100
   for i in range(0, edges):
     move(size)
     triangle(decoration)
