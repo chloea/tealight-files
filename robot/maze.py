@@ -5,5 +5,5 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-look()
+if look()="none"
 move(1)
