@@ -1,7 +1,7 @@
 from tealight.logo import (move, 
                            turn, 
                            color)
-colours= (black, red)
+colours= ("black", "red")
 
 def square(edges, size, colour):
    angle = 360 / edges
