@@ -7,3 +7,5 @@ def polygon(edges, size):
    for i in range(0, edges):
      move(size)
      turn(angle)
+      
+polygon(10, 30)
