@@ -8,3 +8,5 @@ def square(edges, size):
      turn(angle)
       
 square(4, 200)
+
+blue=square
