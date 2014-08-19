@@ -3,7 +3,7 @@ from tealight.logo import (move,
                            color)
 
 def polygon(edges, size):
-   angle = 90 / edges
+   angle = 360 / edges
    for i in range(0, edges):
      move(size)
      turn(angle)
