@@ -27,7 +27,7 @@ if touch ()== "fruit":
    move ()
 
 turn (-1)
- while touch ()== "fruit":
+ while touch ()= "fruit":
     move ()
 
     
