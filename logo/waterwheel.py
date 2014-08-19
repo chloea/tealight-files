@@ -4,7 +4,7 @@ from tealight.logo import move, turn
 def triangle(side):
   for i in range(0,3):
     move(side)
-    turn(45)
+    turn(100)
 
 def waterwheel(edges, size):
   angle = 360 / edges
