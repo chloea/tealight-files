@@ -30,5 +30,9 @@ turn (-1)
 while smell ()== "fruit":
     move ()
 
+turn (1)
+
+    
+
     
 go ()
