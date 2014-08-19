@@ -5,10 +5,11 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
+wall= "object"
 def touch ():
-  if touch = wall:
+  if touch = "wall":
     right_side
-    if right_side=wall:
+    if right_side="wall":
       left_side
-      if left_side=wall:
+      if left_side="wall":
         turn 2
