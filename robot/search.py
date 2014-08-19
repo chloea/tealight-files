@@ -13,3 +13,4 @@ while True:
   
   if touch() == "wall":
     turn(2)
+    
