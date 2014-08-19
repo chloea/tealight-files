@@ -23,7 +23,6 @@ if touch () == "fruit":
 
 turn (1)
 move ()
-turn (-1)
-move ()
+
     
 go ()
