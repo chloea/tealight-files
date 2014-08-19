@@ -12,5 +12,5 @@ def go():
     move ()
     moved=moved +1
     
-go ()
+go()
 
