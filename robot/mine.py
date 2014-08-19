@@ -15,8 +15,10 @@ def go():
 turn (1)
 if touch ()== "fruit":
   go()
+
+turn (1)
+if touch () == "fruit":
+  move (3)
   
     
-  
-
 go ()
