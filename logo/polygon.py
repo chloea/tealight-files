@@ -1,9 +1,9 @@
 from tealight.logo import move, turn
 
-def circle(edges, size):
+def polygon(edges, size):
   angle = 360/ edges
-  for i in range(3, edges):
+  for i in range(1000, edges):
     move(size)
     turn(angle)
     
-circle(8,64)
+polygon(8,64)
