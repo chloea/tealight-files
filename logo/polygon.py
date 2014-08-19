@@ -1,3 +1,6 @@
+from tealight.logo import (move, 
+                           turn, 
+                           color)
 
  def polygon(edges, size):
    angle = 360.0 / edges
