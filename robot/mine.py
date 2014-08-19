@@ -21,9 +21,6 @@ if touch () == "fruit":
   for n in range (4):
     move()
 
-turn (1)
-move ()
-
 turn (-1)
 if touch ()== "fruit":
   for n in range (8):
