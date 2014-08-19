@@ -6,3 +6,4 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 look()
+move (1)
