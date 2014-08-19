@@ -6,4 +6,5 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-move (2)
+look ()
+while True move 1
