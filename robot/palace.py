@@ -7,4 +7,4 @@ from tealight.robot import (move,
                             right_side)
 
 look ()
-while True move 1
+while True move (1)
