@@ -11,6 +11,11 @@ def go():
   while touch () == "fruit":
     move ()
     moved=moved +1
+
+turn (1)
+if touch ()== "fruit":
+  go()
+  
     
   
 
