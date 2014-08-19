@@ -8,16 +8,16 @@ from tealight.robot import (move,
 
 def go():
   moved=0
-  while touch () == "wall":
+  while touch () == "fruit":
     move ()
     moved=moved +1
 
 turn (1)
-if touch ()== "wall":
+if touch ()== "fruit":
   go()
 
 turn (1)
-if touch () == "wall":
+if touch () == "fruit":
   for n in range (4):
     move()
 
