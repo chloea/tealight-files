@@ -30,7 +30,10 @@ turn (-1)
 while smell ()== "fruit":
     move ()
 
-turn (1)
+if touch ()== "wall":
+  turn (1)
+  if touch ()=="wall":
+
 
     
 
