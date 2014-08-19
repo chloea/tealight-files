@@ -26,7 +26,7 @@ move ()
 
 turn (-1)
 if touch ()== "fruit":
-  for n in range (8)
+  for n in range (8):
   move ()
 
  
