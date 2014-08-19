@@ -6,5 +6,6 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
-look ()
-while True move (1)
+def go():
+  moved=0
+  while touch ()=="jewell"
