@@ -24,7 +24,7 @@ if touch () == "wall":
 turn (1)
 move ()
 
-while touch () == "wall"
+
  
 
     
