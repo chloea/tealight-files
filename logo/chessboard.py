@@ -7,6 +7,6 @@ def square(edges, size, colour):
      move(size)
      turn(angle)
       
-square(4, 200, black)
+square(4, 200, blue)
 
 
