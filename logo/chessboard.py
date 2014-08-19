@@ -1,12 +1,14 @@
 from tealight.logo import (move, 
                            turn, 
                            color)
+colours= (black, red)
+
 def square(edges, size, colour):
    angle = 360 / edges
    for i in range(0, edges):
      move(size)
      turn(angle)
       
-square(4, 200, )
+square(4, 200, black)
 
 
