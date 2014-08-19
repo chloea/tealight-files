@@ -1,4 +1,4 @@
 from tealight.logo import (move, 
                            turn, 
                            color)
-define
+def square
