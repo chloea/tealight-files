@@ -35,7 +35,7 @@ def handle_frame():
   
   color("green")
   
-  image(400,500,"animals/Pterodactyl.png")
+  image(x,y,"animals/Pterodactyl.png")
   vx = vx + ax
   vy = vy + ay
   
@@ -44,6 +44,6 @@ def handle_frame():
   
   color("purple")
   
- image(x,y,8)
+ image(x,y,"animals/Pterodactyl.png")
   
   
