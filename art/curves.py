@@ -8,7 +8,7 @@ for x in range(0,54):
     elif y > x:
       color("green")
     elif y*y < x:
-      color("yellow")
+      color("orange")
     else:
       color("blue")
     
