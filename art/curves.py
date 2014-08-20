@@ -25,3 +25,6 @@ for x in range(55,100):
       image ("misc/RedBalloon.png")
     else:
       image("food/CandyCane.png")
+      
+      x=70
+      y=66
