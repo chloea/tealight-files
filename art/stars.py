@@ -16,6 +16,6 @@ def star(x, y, c, size, spines):
     
     angle = angle + (2 * pi / spines)
 
-star(600, 400, "blue", 130, 80)
-star(400, 400, "purple", 200, 60)
-star(200, 400, "orange", 125, 100)
+star(600, 400, "blue", 100, 80)
+star(400, 400, "purple", 100, 60)
+star(200, 400, "orange", 100, 100)
