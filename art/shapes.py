@@ -3,7 +3,7 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 background("paper.jpg")  
 color("red")
 
-spot(100,200,50) 
+spot(200,200,50) 
 
 color("yellow")
 circle(500,500,50)
