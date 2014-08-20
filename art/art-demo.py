@@ -38,4 +38,5 @@ def handle_mousemove(x,y):
   lastx = x
   lasty = y
   
-  image(animals/pterodatctly.png)
+  
+    
