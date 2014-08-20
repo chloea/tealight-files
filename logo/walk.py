@@ -8,7 +8,7 @@ from random import random
 i = 0
 
 while i < 10000:
-  move(random()*10)
+  move(random()*50)
   turn(random()*120)
   print i
   color("hsl(%d,60%%,50%%)" % i)
