@@ -9,7 +9,7 @@ i = 0
 
 while i < 10000:
   move(random()*10)
-  turn(random()*360)
+  turn(random()*120)
   print i
   color("hsl(%d,60%%,50%%)" % i)
   i += 1
