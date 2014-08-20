@@ -13,3 +13,8 @@ for x in range(0,54):
       color("blue")
     
     box(x*20,y*15,10,10)
+    
+for x in range(55,100):
+  for y in range(40,80):
+    if y>x*x:
+      image(animals/pterodactyl.png)
