@@ -8,6 +8,6 @@ spot(200,500,50)
 color("yellow")
 circle(500,500,50)
 
-color("blue")
+color("clear")
 box(100,200,500,500)
 
