@@ -33,7 +33,7 @@ def handle_keyup(key):
 def handle_frame():
   global x,y,vx,vy,ax,ay
   
-  color("red")
+  color("red","blue")
   
   spot(x,y,8)
   vx = vx + ax
