@@ -16,7 +16,12 @@ for x in range(0,54):
     
 for x in range(55,100):
   for y in range(40,80):
+    
     if y>x*x:
       image("animals/Pterodactyl.png")
     elif y> x:
-      image("misc/Bomb.png")
+      image("misc/Bomb.png") 
+    elif y*y<x:
+      image ("misc/RedBalloon.png")
+    else:
+      image("food/CandyCane.png")
