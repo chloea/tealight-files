@@ -3,7 +3,7 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 x = 40
 y = 100
 
-width = 20
+width = 15
 height = 8
 
 for i in range(0,width):
