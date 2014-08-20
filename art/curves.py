@@ -22,8 +22,8 @@ for x in range(55,100):
     elif y> x:
       image("misc/Bomb.png") 
     elif y*y<x:
-      image (x,500,"misc/RedBalloon.png")
+      image (x,y,"misc/RedBalloon.png")
     else:
-      image(500,600,"food/CandyCane.png")
+      image(x,y,"food/CandyCane.png")
       
   
