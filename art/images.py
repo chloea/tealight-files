@@ -9,7 +9,7 @@ height = 8
 for i in range(0,width):
   print i
   for j in range(0,height):
-    print "%d, %d" % i, j
+    print "%d, %d" % (i, j)
     if i % 4 == 0:
       image(x + i * 80, y + j * 50, "misc/Sword.png")
     else:
