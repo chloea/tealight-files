@@ -24,7 +24,7 @@ def handle_mousedown(x,y,button):
     
 color("green")    
 line(145,0,145,100)
-line(80,0,80,100)
+line(90,0,90,100)
 
 
 
