@@ -16,8 +16,10 @@ def handle_mousedown(x,y,button):
     spot (x,y,45)
     turn =1
     
-#while add_counter(col):
-  #if x < 150
+while add_counter(col):
+  if x < 150
+  mousemove 
+  
    
     
     
