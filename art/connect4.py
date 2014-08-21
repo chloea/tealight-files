@@ -6,6 +6,7 @@ def add_counter(col):
   
 
 def handle_mousedown(x,y,button):
+  add_counter
   global turn 
   if button == "left" and turn ==1:
     color("red")
