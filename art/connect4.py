@@ -11,6 +11,7 @@ def handle_mousedown(x,y,button):
   add_counter(x)
   
   
+  
   if button == "left" and turn ==1:
     color("red")
     spot(x,y,40)
