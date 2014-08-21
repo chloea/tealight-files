@@ -1,4 +1,4 @@
-
+from tealight.art import (color, line,circle, spot, box, image, text, background)
 
 #board
 color("blue")
