@@ -44,6 +44,6 @@ def handle_frame():
   
   color("purple")
   
- image(x,y,"animals/Pterodactyl.png")
+  image(x,y,"animals/Pterodactyl.png")
   
   
