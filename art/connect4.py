@@ -7,10 +7,10 @@ def n(int):
     turn=2
  
 def handle_mousedown(x,y,button):
-  if button == "left":
+  if button == "left" and turn ==1:
     color("red")
     spot(x,y,40)
-  elif button == "right":
+  elif button == "left" and turn ==2:
     color("yellow")
     spot (x,y,40)
     
