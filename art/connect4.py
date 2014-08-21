@@ -7,7 +7,7 @@ def add_counter(col):
 
 def handle_mousedown(x,y,button):
   global turn 
-  add_counter(col)
+  add_counter(col):
   if button == "left" and turn ==1:
     color("red")
     spot(x,y,45)
