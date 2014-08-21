@@ -1,6 +1,6 @@
 from tealight.art import (color, line,circle, spot, box, image, text, background)
 
-
+n=0
 
  
 #def handle_mousedown(x,y,button):
