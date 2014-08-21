@@ -2,9 +2,9 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 
 
-def handle_mousedown(x,y,button):
+def handle_mousedown(x,y):
   if button == "left":
-  color("red")
+  color("red") 
   spot(x,y,50)
  
   
