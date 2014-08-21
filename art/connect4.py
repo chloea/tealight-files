@@ -7,17 +7,19 @@ def add_counter(col):
 
 def handle_mousedown(x,y,button):
   global turn 
-   add_counter(col):
-   if button == "left" and turn ==1:
+  if button == "left" and turn ==1:
     color("red")
     spot(x,y,45)
     turn =2
-   elif button == "left" and turn ==2:
+  elif button == "left" and turn ==2:
     color("yellow")
     spot (x,y,45)
     turn =1
     
-
+while add_counter(col):
+  if x < 150
+   spot("color")
+    
     
     
 color("green")    
