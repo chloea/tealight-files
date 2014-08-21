@@ -1,5 +1,5 @@
 from tealight.art import (color, line,circle, spot, box, image, text, background)
-
+turn = 2
 def n(int):
   if n/2 != int:
     turn=1
