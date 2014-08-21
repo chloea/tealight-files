@@ -2,6 +2,6 @@ from tealight.art import (color, line, spot, circle, box, image, text, backgroun
 
 
 
-def handle_mousedown(x,y,"left"):
+def handle_mousedown(x,y,"right"):
   color("red")
   spot(x,y,10)
