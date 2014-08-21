@@ -1,12 +1,12 @@
 from tealight.art import (color, line,circle, spot, box, image, text, background)
 turn = 2
-def n(int):
-  if n/2 != int:
-    turn=1
-  elif n/2 == int:
-    turn=2
- 
+
+
+
+
+
 def handle_mousedown(x,y,button):
+  global turn 
   if button == "left" and turn ==1:
     color("red")
     spot(x,y,40)
