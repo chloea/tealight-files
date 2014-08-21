@@ -7,9 +7,9 @@ def handle_mousedown(x,y,button):
   if button == "left":
     color("red")
     spot(x,y,50)
-     elif button == "right"
-     color("yellow")
-     spot (x,y,50)
+      elif button == "right"
+      color("yellow")
+      spot (x,y,50)
   
 
   
