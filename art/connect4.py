@@ -23,6 +23,10 @@ def handle_mousedown(x,y,button):
     turn =1
     
     
+    
+    
+color(green)    
+line(100,0,100,100)
 
 
 
