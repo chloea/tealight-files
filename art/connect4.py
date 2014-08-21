@@ -3,7 +3,7 @@ from tealight.art import (color, line,circle, spot, box, image, text, background
 
 
  
-def handle_mousedown(x,y,button):
+#def handle_mousedown(x,y,button):
   if button == "left":
     color("red")
     spot(x,y,40)
@@ -13,8 +13,8 @@ def handle_mousedown(x,y,button):
   
 
 
-  while n<64:
-  def handle_mousemove(x,y,button):
+while n<64:
+def handle_mousemove(x,y,button):
   if button == 'left':
     turn = 2
   elif button == 'left':
