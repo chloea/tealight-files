@@ -18,12 +18,13 @@ def handle_mousedown(x,y,button):
     
 #while add_counter(col):
   #if x < 150
-   #spot("color")
+   
     
     
     
 color("green")    
 line(145,0,145,100)
+line(80,0,80,100)
 
 
 
