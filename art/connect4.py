@@ -1,6 +1,6 @@
 from tealight.art import (color, line,circle, spot, box, image, text, background)
 
-def n
+def (n):
   if n/2 != int:
     turn=1
   elif n/2 = int:
