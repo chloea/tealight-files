@@ -3,7 +3,7 @@ from tealight.art import (color, line,circle, spot, box, image, text, background
 def n(int):
   if n/2 != int:
     turn=1
-  elif n/2 = int:
+  elif n/2 == int:
     turn=2
  
 def handle_mousedown(x,y,button):
