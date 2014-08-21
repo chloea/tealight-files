@@ -1,12 +1,12 @@
 from tealight.art import (color, line,circle, spot, box, image, text, background)
 turn = 2
 
-def add_counter(col):
-  print "Adding counter to column " + str(col)
+def add_counter:
+  print "Adding counter to column " 
   
 
 def handle_mousedown(x,y,button):
-  add_counter(col)
+  add_counter
   global turn 
   if button == "left" and turn ==1:
     color("red")
