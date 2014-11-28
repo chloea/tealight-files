@@ -4,7 +4,7 @@ from tealight.logo import move, turn
 
 def segment(scale, detail):
   
-  if detail == 12:
+  if detail == 8:
     move(scale)
   else:
     segment(scale / 3.0, detail - 1)
