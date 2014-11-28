@@ -5,7 +5,7 @@ color("red")
 
 spot(200,500,50) 
 
-color("yellow")
+color("blue")
 circle(300,500,40)
 
 color("red")
