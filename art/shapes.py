@@ -9,5 +9,5 @@ color("yellow")
 circle(300,500,40)
 
 color("red")
-box(100,200,500,500)
+box(100,200,500,300)
 
