@@ -9,7 +9,8 @@ from tealight.robot import (move,
 # This is a fairly useless algorithm!
 
 while True:
-  move(left_side)
+  move()
+  turn()
   
   if touch() == "wall":
     turn(2)
