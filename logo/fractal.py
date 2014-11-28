@@ -12,11 +12,11 @@ def segment(scale, detail):
     segment(scale / 3.0, detail - 1)
     turn(120)
     segment(scale / 3.0, detail - 1)
-    turn(-60)
+    turn(-30)
     segment(scale / 3.0, detail - 1)
     
 
 turn(360)
 move(-300)
-segment(300,3)
+segment(600,6)
 move(-300)
