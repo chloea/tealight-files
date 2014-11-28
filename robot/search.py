@@ -13,6 +13,6 @@ while True:
   
   
   if touch() == "wall":
-    turn(4)
+    turn(6)
     
   
