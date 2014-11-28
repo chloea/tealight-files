@@ -10,5 +10,6 @@ def square(edges, size, colour):
      turn(angle)
       
 square(4, 200, "blue")
+square(2,100,"red")
 
 
