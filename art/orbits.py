@@ -13,13 +13,13 @@ def handle_keydown(key):
   global ax, ay
   
 
-  if key == "a":
+  if key == "left":
     ax = -power
-  elif key == "d":
+  elif key == "right":
     ax = power
-  elif key == "w":
+  elif key == "up":
     ay = -power
-  elif key == "s":
+  elif key == "down":
     ay = power
 
 def handle_keyup(key):
